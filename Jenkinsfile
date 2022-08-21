@@ -6,6 +6,5 @@ pipline{
                    bat 'python main.py'
             }
         }
-
     }
 }
