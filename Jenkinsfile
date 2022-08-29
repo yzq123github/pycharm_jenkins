@@ -9,7 +9,7 @@ pipeline {
         }
          stage('fuck you mather') {
             steps {
-                echo '操你妈的了个巴子得个'
+                echo '操你妈的了个巴子得个ggiuhohyfrer6d5s4345d6f658d65d'
             }
         }
     }
